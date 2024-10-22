@@ -1,0 +1,118 @@
+[
+  {
+    "kode": "G01",
+    "nama_gejala": "Batuk"
+  },
+  {
+    "kode": "G02",
+    "nama_gejala": "Sesak Nafas"
+  },
+  {
+    "kode": "G03",
+    "nama_gejala": "Hidung tersumbat"
+  },
+  {
+    "kode": "G04",
+    "nama_gejala": "Lemes"
+  },
+  {
+    "kode": "G05",
+    "nama_gejala": "Demam"
+  },
+  {
+    "kode": "G06",
+    "nama_gejala": "Nafsu makan berkurang"
+  },
+  {
+    "kode": "G07",
+    "nama_gejala": "Nyeri otot"
+  },
+  {
+    "kode": "G08",
+    "nama_gejala": "Sakit disertai Nyeri diseluruh tubuh"
+  },
+  {
+    "kode": "G09",
+    "nama_gejala": "Sakit Kepala"
+  },
+  {
+    "kode": "G010",
+    "nama_gejala": "Mual"
+  },
+  {
+    "kode": "G011",
+    "nama_gejala": "Diare"
+  },
+  {
+    "kode": "G012",
+    "nama_gejala": "Mudah lelah"
+  },
+  {
+    "kode": "G013",
+    "nama_gejala": "Rasa tidak enak"
+  },
+  {
+    "kode": "G014",
+    "nama_gejala": "Hidung ingusan"
+  },
+  {
+    "kode": "G015",
+    "nama_gejala": "Hilang aroma penciuman"
+  },
+  {
+    "kode": "G016",
+    "nama_gejala": "Hilang perasa"
+  },
+  {
+    "kode": "G017",
+    "nama_gejala": "Batuk berdahak"
+  },
+  {
+    "kode": "G018",
+    "nama_gejala": "Batuk darah"
+  },
+  {
+    "kode": "G019",
+    "nama_gejala": "Bersin Bersin"
+  },
+  {
+    "kode": "G020",
+    "nama_gejala": "Rasa tidak enak pada hidung"
+  },
+  {
+    "kode": "G021",
+    "nama_gejala": "Batuk tidak berdahak"
+  },
+  {
+    "kode": "G022",
+    "nama_gejala": "Menggigil"
+  },
+  {
+    "kode": "G023",
+    "nama_gejala": "Demam lebih dari 10 hari"
+  },
+  {
+    "kode": "G024",
+    "nama_gejala": "Diare kronis"
+  },
+  {
+    "kode": "G025",
+    "nama_gejala": "Infeksi Jamur di mulut, tenggorokan, atau di sekitar kelamin"
+  },
+  {
+    "kode": "G026",
+    "nama_gejala": "Pembengkakan kelenjar getah bening di area ketiak, leher, dan selangkangan"
+  },
+  {
+    "kode": "G027",
+    "nama_gejala": "Bintik ungu di kulit yang tidak bisa hilang"
+  },
+  {
+    "kode": "G028",
+    "nama_gejala": "Mudah memar atau berdarah"
+  },
+  {
+    "kode": "G029",
+    "nama_gejala": "Mudah marah atau Depresi"
+  }
+]
